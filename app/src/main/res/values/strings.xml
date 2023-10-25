@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application_1</string>
+    <string name="activty2_name">nothing\n</string>
+    <string name="text_hedear">Message Recevied\n</string>
+    <string name="EditText_main">Entry your massge Here\n</string>
+    <string name="Text_button">Send</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
